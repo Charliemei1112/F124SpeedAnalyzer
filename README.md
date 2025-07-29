@@ -34,20 +34,20 @@
 
 5. **Expected Output**
    ```
-   [13:17:38] Starting analysis of video: Red_Bull.mp4
-   [13:17:38] Starting video frame extraction and speed analysis...
-   [13:17:39] Resolution: 1920x1200
-   Processing Frames:  97%|██████████████████████   | 2686/2764 [00:08<00:00, 303.37it/s]
-   [13:17:48] Time taken: 9.231 seconds
-   [13:17:48] Successfully extracted 2686 speed data points
-   [13:17:48] Calculating performance metrics...
-   [13:17:48] ANALYSIS COMPLETE!
-   [13:17:48] ==================================================
-   [13:17:48] Video: Red_Bull.mp4
-   [13:17:48] Frames processed: 2686
-   [13:17:48] Average speed: 215.2 km/h
-   [13:17:48] Max speed: 329 km/h
-   [13:17:48] Min speed: 69 km/h
+   [17:38:17] Starting analysis of video: RedBull.mp4
+   [17:38:17] Starting video frame extraction and speed analysis...
+   [17:38:17] Resolution: 1920x1200
+   [17:38:17] Processing Frames::  97%|████████████████████████████████████▉ | 2686/2764 [00:09<00:00, 293.03it/s]
+   [17:38:26] Time taken: 9.546 seconds
+   [17:38:26] Successfully extracted 2686 speed data points
+   [17:38:26] Calculating performance metrics...
+   [17:38:27] ANALYSIS COMPLETE!
+   [17:38:27] ==================================================
+   [17:38:27] Video: RedBull.mp4
+   [17:38:27] Frames processed: 2686
+   [17:38:27] Average speed: 215.2 km/h
+   [17:38:27] Max speed: 329 km/h
+   [17:38:27] Min speed: 69 km/h
    ```
 
 ---
